@@ -113,11 +113,21 @@ Numeric
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 't...' prefix is used to denote a time domain variable.
 
+* Units
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+seconds
+
 ######f...
 * Variable
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 'f...' prefix is used to denote a frequency domain variable.
+
+* Units
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Hertz
 
 ###### ..BodyAcc-...
 
