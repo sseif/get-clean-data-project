@@ -1,5 +1,5 @@
 ###Description
-This repo contains my solution for the course project of [Getting and Cleaning data course](https://class.coursera.org/getdata-011/).
+This repo contains my solution for the course project of [Getting and Cleaning data](https://class.coursera.org/getdata-011/) course.
 
 ###Content
 #####run_analysis.R
@@ -20,7 +20,7 @@ Using this [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 source('PATH/TO/SCRIPT/run_analysis.R')
 
 #####CodeBook.md
-The code book describing the variables, the data, and the cleaning process that was performed on the input raw data.
+The code book describes the variables, the data, and the cleaning process that was performed on the input raw data.
 
 #####README.md
 This is the file that you are reading at the moment!
